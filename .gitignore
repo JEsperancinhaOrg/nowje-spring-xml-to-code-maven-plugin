@@ -31,3 +31,4 @@ build
 
 # Tests
 secretTest.sh
+dependency-reduced-pom.xml
