@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <name>Now JE Parent</name>
+    <name>Now JE Spring XML to Code Parent</name>
     <modules>
         <module>nowje-spring-xml-to-code-runner</module>
     </modules>

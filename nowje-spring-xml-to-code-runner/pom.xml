@@ -12,7 +12,7 @@
     <artifactId>nowje-spring-xml-to-code-runner</artifactId>
     <packaging>jar</packaging>
 
-    <name>Now JE Code Runner</name>
+    <name>Now JE Spring XML to Code Runner</name>
 
     <dependencies>
         <dependency>
