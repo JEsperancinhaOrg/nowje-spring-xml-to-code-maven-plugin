@@ -8,7 +8,9 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/935048c9da64483ab6de548bc71c4572)](https://www.codacy.com/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin&amp;utm_campaign=Badge_Grade)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/935048c9da64483ab6de548bc71c4572)](https://www.codacy.com/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/dashboard?utm_source=github.com&utm_medium=referral&utm_content=JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin&utm_campaign=Badge_Coverage)
 [![Coverage Status](https://coveralls.io/repos/github/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/badge.svg?branch=main)](https://coveralls.io/github/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin?branch=main)
+[![codecov](https://codecov.io/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/branch/master/graph/badge.svg?token=AkwYVYz0HW)](https://codecov.io/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin)
 
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinhaorg/nowje-spring-xml-to-code-maven-plugin.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinhaorg/nowje-spring-xml-to-code-maven-plugin.svg)](#)
