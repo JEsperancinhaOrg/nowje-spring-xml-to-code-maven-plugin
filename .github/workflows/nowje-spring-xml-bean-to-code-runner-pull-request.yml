@@ -1,4 +1,4 @@
-name: spring-xml-bean-to-code-runner-pull_request
+name: nowje-spring-xml-to-code-runner-pull_request
 
 on:
   pull_request:

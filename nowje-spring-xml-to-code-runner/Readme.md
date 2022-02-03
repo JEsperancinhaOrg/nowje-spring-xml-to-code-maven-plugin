@@ -1,4 +1,4 @@
-# groupId spring-xml-bean-to-code-runner
+# nowje-spring-xml-to-code-runner
 
 ## About me 👨🏽‍💻🚀🏳️‍🌈
 

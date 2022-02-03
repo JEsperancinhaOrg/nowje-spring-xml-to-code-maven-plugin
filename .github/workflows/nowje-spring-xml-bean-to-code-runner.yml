@@ -1,4 +1,4 @@
-name: spring-xml-bean-to-code-runner
+name: nowje-spring-xml-to-code-runner
 
 on:
   push:

@@ -25,10 +25,10 @@ build-docker: stop no-test build-npm
 show:
 	docker ps -a  --format '{{.ID}} - {{.Names}} - {{.Status}}'
 docker-delete-idle:
-	docker ps --format '{{.ID}}' -q --filter="name=spring-xml-bean-to-code-runner_"| xargs -I {} docker rm {}
+	docker ps --format '{{.ID}}' -q --filter="name=nowje-spring-xml-to-code-runner_"| xargs -I {} docker rm {}
 docker-delete: stop
-	docker ps -a --format '{{.ID}}' -q --filter="name=spring-xml-bean-to-code-runner_"| xargs -I {}  docker stop {}
-	docker ps -a --format '{{.ID}}' -q --filter="name=spring-xml-bean-to-code-runner_"| xargs -I {}  docker rm {}
+	docker ps -a --format '{{.ID}}' -q --filter="name=nowje-spring-xml-to-code-runner_"| xargs -I {}  docker stop {}
+	docker ps -a --format '{{.ID}}' -q --filter="name=nowje-spring-xml-to-code-runner_"| xargs -I {}  docker rm {}
 docker-cleanup: docker-delete
 	docker images -q | xargs docker rmi
 docker-clean:
