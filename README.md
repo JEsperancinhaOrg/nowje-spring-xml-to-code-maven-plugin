@@ -4,6 +4,14 @@
 [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=spring-xml-bean-to-java-maven-plugin&color=informational)](https://github.com/JEsperancinhaOrg/spring-xml-bean-to-java-maven-plugin)
 [![Status badge](https://img.shields.io/static/v1.svg?label=Status&message=Under%20Construction%20🚧&color=informational)](https://github.com/JEsperancinhaOrg/omni-reporter-maven-plugin)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b4cc15bb039417395a7189b8bf6019a)](https://www.codacy.com/gh/JEsperancinhaOrg/spring-xml-bean-to-code-maven-plugin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JEsperancinhaOrg/spring-xml-bean-to-code-maven-plugin&amp;utm_campaign=Badge_Grade)
+
+[![Coverage Status](https://coveralls.io/repos/github/JEsperancinhaOrg/spring-xml-bean-to-code-maven-plugin/badge.svg?branch=main)](https://coveralls.io/github/JEsperancinhaOrg/spring-xml-bean-to-code-maven-plugin?branch=main)
+
+[![GitHub language count](https://img.shields.io/github/languages/count/jesperancinhaorg/spring-xml-bean-to-code-maven-plugin.svg)](#)
+[![GitHub top language](https://img.shields.io/github/languages/top/jesperancinhaorg/spring-xml-bean-to-code-maven-plugin.svg)](#)
+[![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinhaorg/spring-xml-bean-to-code-maven-plugin.svg)](#)
+
 This plugin receives as input old xml bean files in a package and tries to map any missing configuration to  the code files and injects new configuration with a determined algorithm that evolves as requests come in
 
 ## About me 👨🏽‍💻🚀🏳️‍🌈
