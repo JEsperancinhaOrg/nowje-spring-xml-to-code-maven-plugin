@@ -4,6 +4,7 @@
 [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=nowje-spring-xml-to-code-maven-plugin%20🍃&color=informational)](https://github.com/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin)
 [![Status badge](https://img.shields.io/static/v1.svg?label=Status&message=Under%20Construction%20🚧&color=informational)](https://github.com/JEsperancinhaOrg/omni-reporter-maven-plugin)
 
+[![CircleCI](https://circleci.com/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/tree/main.svg?style=svg)](https://circleci.com/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/tree/main)
 [![nowje-spring-xml-to-code-runner](https://github.com/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/actions/workflows/nowje-spring-xml-bean-to-code-runner.yml/badge.svg)](https://github.com/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/actions/workflows/nowje-spring-xml-bean-to-code-runner.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/935048c9da64483ab6de548bc71c4572)](https://www.codacy.com/gh/JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JEsperancinhaOrg/nowje-spring-xml-to-code-maven-plugin&amp;utm_campaign=Badge_Grade)
