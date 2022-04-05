@@ -61,7 +61,7 @@
     <properties>
         <kotlin.version>1.6.20</kotlin.version>
         <omni-coveragereporter-maven-plugin.version>0.3.0</omni-coveragereporter-maven-plugin.version>
-        <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
         <maven-shade-plugin.version>3.3.0</maven-shade-plugin.version>
     </properties>
 
