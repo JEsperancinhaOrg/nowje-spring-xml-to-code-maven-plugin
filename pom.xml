@@ -59,7 +59,7 @@
         </plugins>
     </build>
     <properties>
-        <kotlin.version>1.8.20</kotlin.version>
+        <kotlin.version>1.8.21</kotlin.version>
         <omni-coveragereporter-maven-plugin.version>0.4.2</omni-coveragereporter-maven-plugin.version>
         <jacoco-maven-plugin.version>0.8.10</jacoco-maven-plugin.version>
         <maven-shade-plugin.version>3.4.1</maven-shade-plugin.version>
